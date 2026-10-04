@@ -1,7 +1,9 @@
+//https://www.luogu.com.cn/problem/P17563
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.StreamTokenizer;
 
 public class Program_of_base_x_2029 {
     public static BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));

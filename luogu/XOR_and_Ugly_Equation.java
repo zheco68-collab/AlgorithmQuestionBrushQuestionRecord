@@ -1,7 +1,9 @@
+
+//https://www.luogu.com.cn/problem/P17569
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.StreamTokenizer;
 import java.util.StringTokenizer;
 
 public class XOR_and_Ugly_Equation {
